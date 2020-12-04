@@ -1,1 +1,13 @@
-
+<!DOCTYPE html> 
+<html>
+  <head>
+    <link ref="stylesheet" href="CSS">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  </head>
+  <body>
+  <h1>Question 1</h1>
+  <h2>Who calls to prayer?</h2>
+  <a href="IslamTestLose"><button>Muran</button></a>
+  <a href="IslamTest2"><button>Mu’adhdhin</button></a>
+  </body>
+  </html>
